@@ -22,7 +22,7 @@ then run following commands.
     npm start
 ```
 ----
-`STEP 3` - Running Strapi!
+`STEP 3` - Running Strapi CMS!!
 open another terminal and enter the following commands
 ```
     cd api
